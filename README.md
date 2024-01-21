@@ -1,0 +1,2 @@
+# Tomasulo’s algorithm simulator
+ The primary goal of this project is to create a robust simulator that accurately assesses the performance of the proposed 16-bit RISC processor. This simulator will help in understanding the processor's efficiency, speed, and overall performance under various conditions. This report outlines the development of an architectural simulator designed to evaluate the performance of a simplified out-of-order 16-bit RISC processor. The simulator leverages Tomasulo’s algorithm, excluding speculation, to emulate the processor's behavior.
